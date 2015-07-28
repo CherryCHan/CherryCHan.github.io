@@ -8,6 +8,9 @@ Hello, my name is Chen Peiyu.
 
 You can follow me at [Github](https://github.com/CherryCHan)
 
+
+<img src="/assets/images/index/11378803_851535998233189_656081922_n.jpg" alt="img" style="width:300px"/>
+
 ## My Posts
 
 Here's a simple posts list.

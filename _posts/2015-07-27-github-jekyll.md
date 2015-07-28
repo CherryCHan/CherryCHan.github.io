@@ -138,7 +138,14 @@ reference:[RubyGems 镜像](https://ruby.taobao.org/)
 
 在浏览器预览 http://localhost:4000，见到如下界面
 
-![img]({{site.image_url}}/{{ page.date | date: '%Y%m%d' }}/1360135507_2641.jpg)
+![img]({{site.image_url}}/{{ page.date | date: '%Y%m%d' }}/b7ed18b0de7d832ef1e9b1b23b74da17.png)
 
-更多使用介绍，请看官方文档
+
+更多使用介绍，请看[官方文档](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+
+**References:**
+
+- [搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
+- [通过GitHub Pages建立个人站点（详细步骤）](http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html)
+- [轻松搞定Markdown](http://zipperary.com/2013/08/31/easy-markdown/)
 
