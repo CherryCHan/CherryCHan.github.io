@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+      "follow_symlinks": true,
+			"path": "/C/Users/rachelchen/Documents/GitHub/CherryCHan.github.io/site/"
+		}
+	],
+
+    "settings":
+      {
+          "Jekyll":
+          {
+              "posts_path": "/C/Users/username/site/_posts",
+              "drafts_path": "/C/Users/username/site/_drafts",
+          }
+      }
+}
